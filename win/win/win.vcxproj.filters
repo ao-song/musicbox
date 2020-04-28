@@ -29,5 +29,8 @@
     <ClInclude Include="..\pdcurses\hdr\curspriv.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Box.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
